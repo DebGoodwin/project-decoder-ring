@@ -14,9 +14,9 @@ Designed to code and decode messages using Caesar shift, the Polybius square, an
 ### Home Page
 The home page displays the following methods to encode or decode messages:
 
-![home](screenshots/caesar.png)
-![polybius](screenshots/polybius.png)
-![substitution](screenshots/substitution.png)
+![home](screenshots/caesar.png?raw=true)
+![polybius](screenshots/polybius.png?raw=true)
+![substitution](screenshots/substitution.png?raw=true)
 
 
 ## Technology
